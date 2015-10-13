@@ -1,0 +1,15 @@
+# IDE
+.idea
+
+# MacOS
+.DS_Store
+
+# NPM
+/node_modules
+/npm-debug.log
+
+# Composer
+/vendor
+
+# Homestead
+Homestead.yaml
